@@ -11,6 +11,19 @@ plural_noun = gets.chomp.capitalize
 print "Enter a footballer's name: "
 footballer = gets.chomp
 
+print "Enter a footputs "Welcome to the Premier League Mad Libs Game! ⚽🔥"
+puts "----------------------------------------------"
+
+# Get user inputs
+print "Enter a color: "
+color = gets.chomp.capitalize
+
+print "Enter a plural noun: "
+plural_noun = gets.chomp.capitalize
+
+print "Enter a footballer's name: "
+footballer = gets.chomp
+
 print "Enter a football club: "
 club = gets.chomp
 
